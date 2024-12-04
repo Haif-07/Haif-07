@@ -1,13 +1,7 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank">
-    <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
-  </a>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank">
-    <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
-  </a>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank">
-    <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
-  </a>
+<div>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" /></a>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" /></a>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" /></a>
 </div>
 
 
