@@ -5,4 +5,6 @@
 </div>
 
 
-![Visitor Count](https://profile-counter.glitch.me/{Haif-07}/count.svg)
+<center>![Visitor Count](https://profile-counter.glitch.me/{Haif-07}/count.svg)</center>
+
+
